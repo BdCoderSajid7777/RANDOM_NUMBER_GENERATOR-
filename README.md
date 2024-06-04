@@ -21,6 +21,9 @@ ls
 pip install -r requirements.txt
 ```
 ```
+clear
+```
+```
 python number.py
 ```
 
