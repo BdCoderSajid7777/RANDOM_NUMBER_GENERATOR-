@@ -15,9 +15,6 @@ cd RANDOM_NUMBER_GENERATOR-
 pip install -r requirements.txt
 ```
 ```
-clear
-```
-```
 python number.py
 ```
 
